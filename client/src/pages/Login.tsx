@@ -83,7 +83,7 @@ const Login = () => {
                     <>
                         <CardTitle className="text-2xl">Sign In to your account</CardTitle>
                         <CardDescription>
-                                Enter your credentials to login to your accounts
+                                Enter your information to login to your accounts
                         </CardDescription>
                     </>
                     }
